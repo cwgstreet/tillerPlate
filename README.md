@@ -16,16 +16,16 @@ As such, I have provided a drawing file and digital dxf fabrication file that he
 ####3D Printing ####
 Contains mesh (.stl) file as well as a *.3mf file that has both mesh and slicer settings.  The read.me file gives an overview of changes made to optimise the PETG print stength.
 
-####Dimensions
+#### Dimensions
 Contains the few dimensional drawings I could find for the tiller plate
 
-####Fabrication
+#### Fabrication
 Everything you need to have the part cut out by a metal fabricator, including drawings and DXF file containing digital 2D vector cut instructions for water jet or laser  cutting.  
 
-####FreeCAD models
+#### FreeCAD models
 CAD models made using FreeCAD version 20.2:  the model with threads is intended for 3D printing while the model without threads is for metal fabrication (the threads can be tapped after the part is cut)
 
-####Images
+#### Images
 Various images of the broken tiller plate, unbroken plate and 3D printed part.
 
 <br>
