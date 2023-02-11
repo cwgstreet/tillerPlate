@@ -1,5 +1,5 @@
 # tillerPlate
-FreeCAD model of replacement SmartTrack kyack rudder tiller plate suitable to be water jet cut from stainless steel plate
+FreeCAD model of replacement SmartTrack kayak rudder tiller plate suitable to be water jet cut from stainless steel plate
 
 
 <br>
