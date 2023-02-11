@@ -1,0 +1,21 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore powerpoint files
+*.ppt*
+
+# Ignore Excel files
+*.xlsx
+/Hardware/*.xlsx
+
+
+# Ignore superceeded files
+#superceeded/
+
+
+# Ignore extras directory - stuff I don't want on git
+extras/
+
+# Ignore confidential information lib - usernames, passwords, API keys
+lib/myConstants/secrets.h
+
