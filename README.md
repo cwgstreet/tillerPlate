@@ -11,9 +11,9 @@ The OEM tiller plate appears to be made of annodised 6061 aluminium.   Although 
 
 As such, I have provided a drawing file and digital dxf fabrication file that he can give to a metal fabricator to have the part custom water jet cut from a strong, corrosion resistant material such as AISA 304 (marine grade) stainless steel plate.
 
-###Repository Contents
+### Repository Contents
 
-####3D Printing ####
+#### 3D Printing ####
 Contains mesh (.stl) file as well as a *.3mf file that has both mesh and slicer settings.  The read.me file gives an overview of changes made to optimise the PETG print stength.
 
 #### Dimensions
