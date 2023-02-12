@@ -21,5 +21,6 @@ The model was sliced with PrusaSliver V2.5 and the following settings were chang
 |Infill|Fill patter|cubic|gyroid|
 
 ## Orientation
-Part was rotated 45 degrees on platter in an attempt to minimise stresses along weaker layer orienttion planes 
+Part was rotated 45 degrees on platter in an attempt to minimise stresses along weaker layer orientation planes 
 
+![45 deg orientation](../images/print-orientation.png)
