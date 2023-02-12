@@ -2,15 +2,15 @@
 ---------------
 
 ## Summary
-The primary purpose of 3D printing the part was simply just to checonfirm modelled part dimensions against the original broken part before having the replacement made by a metal fabricator.
+The primary purpose of 3D printing the part was simply just to confirm dimensions of the modelled part against the original broken part before having the replacement made by a metal fabricator.
 
-The OEM tiller plate part is made from anodised 6061 Aluminium.  As such, any 3D printed part will never be as strong.  Nevertheless, I optimised the 3D print settings and filament choice to give the strongest 3D part possible.
+The OEM tiller plate part is made from anodised 6061 aluminium.  As such, any 3D printed part will never be as strong.  Nevertheless, I optimised the 3D print settings and filament choice to improve the 3D part strength.
 
 ## Filament
-PETG filament was used which should provide some stength improvements over PLA.
+PETG filament was used which should provide some strength improvements over PLA.
 
 ## Slicer Settings
-The model was sliced with PrusaSliver V2.5 and the following settings were changed to optimised the part stength.
+The model was sliced with PrusaSliver V2.5 and the following settings were changed to optimised the part strength.
 
 **Print Setting Changes to Prusament PETG profile:**
 |Parameter|Setting|default|value used|
