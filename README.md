@@ -17,7 +17,7 @@ As such, I have provided a drawing file and digital dxf fabrication file that he
 Contains mesh (.stl) file as well as a *.3mf file that has both mesh and slicer settings.  The read.me file gives an overview of changes made to optimise the PETG print stength.
 
 #### Dimensions
-Contains the few dimensional drawings I could find for the tiller plate
+Contains the few and incomplete dimensional drawings I could find for the tiller plate
 
 #### Fabrication
 Everything you need to have the part cut out by a metal fabricator, including drawings and DXF file containing digital 2D vector cut instructions for water jet or laser  cutting.  
