@@ -9,8 +9,8 @@
 /Hardware/*.xlsx
 
 
-# Ignore superceeded files
-#superceeded/
+# Ignore vscode setting files
+settings.json
 
 
 # Ignore extras directory - stuff I don't want on git
